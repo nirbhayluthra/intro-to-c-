@@ -1,2 +1,1 @@
-# intro-to-c-
-## C++ is similar
+# intro-to-c and cpp
